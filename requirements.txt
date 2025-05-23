@@ -1,0 +1,14 @@
+# requirements.txt
+This project uses only Python standard library modules
+Python 3.7+ required
+
+Standard library modules used:
+sqlite3 (database operations)
+json (save file format)
+logging (game event logging)
+datetime (timestamps)
+dataclasses (modern Python data structures)
+typing (type hints)
+enum (game state management)
+random (game randomization)
+pathlib (file path handling)
